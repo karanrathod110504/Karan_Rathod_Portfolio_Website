@@ -367,6 +367,7 @@ const sendEmail = async (e) => {
                   <div className='w-100'>
                     <h3 className='text-lg'> Web Development Intern (Online) </h3>
                     <p className='text-[#00ADB5]'> Acmegrade </p>
+                    <p className='text-[#00ADB5] invisible'> (ISO-Certified & AICTE-Approved) </p>
                     <p className='text-[#CAD4DA] flex items-center gap-3 my-2'> <FaCalendarDays/> Nov 2024– Dec 2024 </p>
                   </div>
                   <div className='w-130 text-[17px] max-xl:hidden'>
